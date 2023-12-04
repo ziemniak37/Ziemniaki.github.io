@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strona Kacpra Guzowskiego</title>
+    <style>
+        body {
+            background-image: url('https://media.tenor.com/OaOfAk_0nNwAAAAC/arcane-jinx.gif');
+            background-size: cover;
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Witaj na Stronie Kacpra Guzowskiego</h1>
+    </header>
+
+    <section>
+        <h2>Kto to jest Kacper Guzowski?</h2>
+        <p><strong>Edukacja:</strong> Jestem uczniem klasy trzeciej w Śląskich Technicznych Zakładach Naukowych. Pasjonuje mnie świat nauki i technologii, a moja przygoda edukacyjna nabiera tempa każdego dnia.</p>
+        <p><strong>Zainteresowania:</strong>Jednym z moich głównych zainteresowań są gry komputerowe. Uwielbiam spędzać czas przed ekranem, wcielając się w różne postacie i odkrywając wirtualne światy. To dla mnie nie tylko rozrywka, ale także sposób na rozwijanie umiejętności strategicznych i logicznych.
+<br>Jako prawdziwy gracz jestem fanem gry League of Legends fascynującej gry, która pochłonęła moje serce.
+<br>Moja przygoda w świecie Summoner's Rift rozpoczęła się pewnego dnia, kiedy postanowiłem odważyć się na zmierzenie z najbardziej wymagającym, ale jednocześnie pełnym wyzwań miejscem - Top Lane. Byłem zafascynowany rolą toplanera, który musi stawić czoła zarówno przeciwnikowi jak i samotności własnej alei. Wybrałem tę ścieżkę, by sprawdzić, czy moje umiejętności oraz zmysł taktyczny są wystarczające, aby przetrwać i dominować na górnym pasie.
+<br>Jako prawdziwy fan gier komputerowych, szybko odnalazłem się w świecie różnorodnych bohaterów dostępnych w grze. Dla mnie to jednak nie tylko liczby i statystyki, ale prawdziwe postaci, z którymi tworzę nić wspólną. Riven z jej eksplozywną siłą, czy Jax z niezniszczalnym młotem - to postacie, które opanowałem i którymi uwielbiam grać.
+<br>Top Lane to pole bitwy pełne strategii. Wybór odpowiedniego bohatera, dostosowanie się do stylu gry przeciwnika, oraz zdolność do czytania mapy są kluczowe dla sukcesu na górnym pasie. Czasami to jest samotna walka, a czasami dołączają do niej junglerzy, tworząc niesamowite starcia i wyjątkowe momenty.
+<br>League of Legends to nie tylko gra, to społeczność. Spotkania z innymi toplanerami, wymiana doświadczeń, czy nawet dyskusje na temat najnowszych patchy - to wszystko sprawia, że czuję się częścią czegoś większego. Wspólnie zdobywamy wiedzę, uczymy się nowych tricków i wspieramy się nawzajem w trudnych chwilach na Top Lane.
+<br>Moja przygoda jako toplaner w League of Legends trwa nadal. Każdy mecz to nowe wyzwanie, nowa szansa na naukę i doskonalenie umiejętności. Niezależnie od tego, czy walczę podczas rankedów czy też eksperymentuję w normalnych grach, to zawsze czeka mnie coś nowego i ekscytującego.
+<br>Zapraszam was do świata Top Lane, gdzie wytrzymałość, strategia i nieustanny rozwój są kluczem do sukcesu. Może nawet spotkamy się na planszy, aby wspólnie stawić czoła przeciwnościom i zdobywać zwycięstwa dla Summonerów! A moje Osiagnięcia można śledzić <a href="https://www.leagueofgraphs.com/pl/summoner/eune/ZiemniaCaPs-lysy">tutaj</a>
+<br>Muzyka odgrywa ważną rolę w moim życiu, zwłaszcza gatunek metalu. Od ciężkich brzmień po głębokie teksty, fascynuje mnie różnorodność tego gatunku muzycznego.
+<br>Czytanie książek to dla mnie również ważna forma spędzania czasu. Zanurzam się w różnorodnych światach literackich, zdobywając wiedzę i rozwijając wyobraźnię..</p>
+        <p><strong>Małe Niechęci:</strong> Nienawidzę rowerzystów, hulajnogarzy oraz murzynów. Ale każdy ma swoje małe antypatie, prawda?</p>
+    </section>
+
+    <footer>
+        <p>Dziękuję za odwiedzenie mojej strony!</p>
+        <p><em>Do zobaczenia w wirtualnym świecie!</em></p>
+    </footer>
+</body>
+</html>
