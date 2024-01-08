@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jan Brzechwa ZOO</title>
+</head>
+
+<body>
+
+    <h1>Jan Brzechwa ZOO</h1>
+
+    <h2>TYGRYS</h2>
+    <p>"Co słychać, panie tygrysie?"</p>
+    <p>"A nic. Nudzi mi się."</p>
+    <p>"Czy chciałby pan wyjść zza tych krat?"</p>
+    <p>"Pewnie. Przynajmniej bym pana zjadł."</p>
+
+    <h3>STRUŚ</h3>
+    <p>Struś ze strachu</p>
+    <p>Ciągle głowę chowa w piachu,</p>
+    <p>Więc ma opinię mazgaja.</p>
+    <p>A nadto znosi jaja wielkości strusiego jaja.</p>
+
+    <h2>PAPUGA</h2>
+    <div>
+        <p>"Papużko, papużko,</p>
+        <p>Powiedz mi coś na uszko."</p>
+        <p>"Nic nie powiem, boś ty plotkarz,</p>
+        <p>Powtórzysz każdemu, kogo spotkasz."</p>
+    </div>
+
+</body>
+
+</html>
