@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atlas Ptaków</title>
+</head>
+<body>
+    <h1>Atlas Ptaków</h1>
+
+    <section>
+        <h2>Gil</h2>
+        <figure>
+            <img src="gil.jpg" alt="Gil">
+            <figcaption>Gil</figcaption>
+        </figure>
+        <p>Gil (Pyrrhula pyrrhula) to ptak z rodziny łuszczakowatych. Charakteryzuje się czerwonym brzuchem i czarną głową.</p>
+        <audio controls>
+            <source src="gil.mp3" type="audio/mpeg">
+            Twoja przeglądarka nie obsługuje elementu audio.
+        </audio>
+    </section>
+
+    <section>
+        <h2>Szpak</h2>
+        <figure>
+            <img src="szpak.jpg" alt="Szpak">
+            <figcaption>Szpak</figcaption>
+        </figure>
+        <p>Szpak (Sturnus vulgaris) to średniej wielkości ptak z rodziny szpakowatych. Ma metalicznie błyszczące pióra i jest znany ze swojej zdolności do naśladowania dźwięków.</p>
+        <audio controls>
+            <source src="szpak.mp3" type="audio/mpeg">
+            Twoja przeglądarka nie obsługuje elementu audio.
+        </audio>
+    </section>
+
+    <section>
+        <h2>Wilga</h2>
+        <figure>
+            <img src="wilga.jpg" alt="Wilga">
+            <figcaption>Wilga</figcaption>
+        </figure>
+        <p>Wilga (Oriolus oriolus) to ptak z rodziny wilgowatych. Samiec ma jaskrawożółte upierzenie z czarnymi skrzydłami.</p>
+        <audio controls>
+            <source src="wilga.mp3" type="audio/mpeg">
+            Twoja przeglądarka nie obsługuje elementu audio.
+        </audio>
+    </section>
+
+    <section>
+        <h2>Śpiewak</h2>
+        <figure>
+            <img src="spiewak.jpg" alt="Śpiewak">
+            <figcaption>Śpiewak</figcaption>
+        </figure>
+        <p>Śpiewak (Turdus philomelos) to ptak z rodziny drozdowatych. Jest znany ze swojego melodyjnego śpiewu.</p>
+        <audio controls>
+            <source src="spiewak.mp3" type="audio/mpeg">
+            Twoja przeglądarka nie obsługuje elementu audio.
+        </audio>
+    </section>
+
+    <section>
+        <h2>Jaskółka</h2>
+        <figure>
+            <img src="jaskolka.jpg" alt="Jaskółka">
+            <figcaption>Jaskółka</figcaption>
+        </figure>
+        <p>Jaskółka (Hirundo rustica) to ptak z rodziny jaskółkowatych. Charakteryzuje się długimi, wąskimi skrzydłami i rozwidlonym ogonem.</p>
+        <audio controls>
+            <source src="jaskolka.mp3" type="audio/mpeg">
+            Twoja przeglądarka nie obsługuje elementu audio.
+        </audio>
+    </section>
+</body>
+</html>
