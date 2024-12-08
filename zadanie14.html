@@ -5,13 +5,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Miasta i Herby</title>
     <style>
-        img{
-        width: 200px;
-        height: auto;
+       
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
         }
-        td,tr{
-        text-align: center;
+
+        table {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            border-collapse: separate; 
+            border-spacing: 0; 
+            background-color: white;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border: 4px double #000; 
         }
+
+        th, td {
+            border: 2px double #000; 
+            text-align: center;
+            padding: 10px;
+        }
+
+        th {
+            background-color: #f1f1f1;
+            font-weight: bold;
+        }
+
+        td:first-child {
+            width: 30%; 
+        }
+
+        td:last-child img {
+            width: 150px; 
+            height: auto;
+        }
+
+        caption {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+    
     </style>
 </head>
 <body>
